@@ -1,0 +1,7 @@
+{
+  "name": "Savanna - Modern Safari SaaS - V7",
+  "description": "V1\nAdded Gemini \nAdded magazine\nAdded Safari pages\nAdded Filters\nAdded similar green section, \nFixed Hello Explorer, \nAdded animated park titles, \nAdded planning wizard\n\nV2\nAdded brand identity page\n\nV3\nTransfer to cursor\n\nV4\nAdded Arusha Tour page example\nTour page menu bar under title\nGallery icon on tour page\n3-state widget on styleguide\nUpdated Magazine page\nVoice AI\n\nV5 \nMasai Park  page update\nLuxury travel page update with menu and content\nmoved to and then nrolled back from next.js \n\nV6\nset up firebase db and auth\nadded admin\nadded save and compare tours\n\n\n",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
